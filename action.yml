@@ -1,0 +1,6 @@
+name: 'DSG Test Action'
+description: 'DSG Test Action'
+runs:
+  using: node12
+  main: action.js
+  post: action.js
